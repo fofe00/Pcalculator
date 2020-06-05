@@ -1,0 +1,12 @@
+{
+    "name": "ainix/calculator",
+    "description": "my first package development for laravel",
+    "authors": [
+        {
+            "name": "LONFO FOFE",
+            "email": "b.fofe@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
